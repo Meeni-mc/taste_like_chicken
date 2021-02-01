@@ -1,4 +1,4 @@
-[Tastes Like chicken Datapack for Minecraft][] by [MeeniMC][] is
+[Rotten Chicken datapack for Minecraft][] by [MeeniMC][] is
 licensed under [CC BY-NC-SA 4.0![][1]![][2]![][3]![][4]][5]
 
   [Rotten Chicken datapack for Minecraft]: https://github.com/Meeni-mc/rotten_chicken
