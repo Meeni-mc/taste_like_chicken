@@ -1,7 +1,7 @@
 [Rotten Chicken datapack for Minecraft][] by [MeeniMC][] is
 licensed under [CC BY-NC-SA 4.0![][1]![][2]![][3]![][4]][5]
 
-  [Rotten Chicken datapack for Minecraft]: https://github.com/Meeni-mc/rotten_chicken
+  [Rotten Chicken datapack for Minecraft]: https://github.com/MeeniMc/rotten_chicken
   [MeeniMC]: https://github.com/Meeni-mc
   [1]: https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1
   [2]: https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1
