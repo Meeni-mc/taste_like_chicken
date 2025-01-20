@@ -1,6 +1,7 @@
 {
 	"pack": {
 		"pack_format": 48,
-		"description": "§6Rotten Chicken§r: §oWhat tastes like chicken? Zombie flesh is what!\n §2v1.48.2; by MeeniMc; CC BY-NC-SA 4.0\n §9https://modrinth.com/datapack/rotten-chicken"
+		"supported_formats": [48, 61],
+		"description": "§6Rotten Chicken§r: §oWhat tastes like chicken? Zombie flesh is what!\n §2v1.61.0; by MeeniMc; CC BY-NC-SA 4.0\n §9https://modrinth.com/datapack/rotten-chicken"
 	}
 }
